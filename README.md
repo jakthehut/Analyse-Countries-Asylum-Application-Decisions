@@ -1,9 +1,9 @@
-# Tool to Analyse Countries Asylum Desicions
+# Tool to Analyse Countries Asylum Decisions
 Part of final project for Data Science Project   
 Central European University, Vienna  
 ## About the Tool
 
-This tool is designed to perform a detailed statistical analysis of asylum applications across different countries, focusing on the correlation between accepted and rejected applications. It provides insights into country-specific trends, exploring whether decisions over time could be random or follow discernible patterns. This analysis includes a comprehensive approach to examining cumulative data at the country level, the rate of change in asylum application outcomes over time, and detailed case studies of specific countries.
+This tool is designed to perform a detailed statistical analysis of asylum applications for any chosen country, focusing on the correlation between accepted and rejected applications. It provides insights into country-specific trends, exploring whether decisions over time could be random or follow discernible patterns. This analysis includes a comprehensive approach to examining cumulative data at the country level, the rate of change in asylum application outcomes over time, and detailed case studies of specific countries. The user must only state the country's name and run the script.
 
 ## Features
 

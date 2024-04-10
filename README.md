@@ -1,4 +1,4 @@
-# Asylum Application Outcome Analysis Tool
+# Tool to Analyse Countries Asylum Desicions
 Part of final project for Data Science Project   
 Central European University, Vienna  
 ## About the Tool
